@@ -241,7 +241,3 @@ Outputs all prototype values, scaled L/C values, electrical lengths, and physica
 Department of Electronics and Communication Engineering  
 The LNM Institute of Information Technology, Jaipur  
 
-*Microwave Engineering Lab — Experiments 7 & 9 (2025–26)*  
-*Lab Partner (Exp 7): Rudransh Parashar*  
-*Lab Partners (Exp 9): Prachi Paliwal, Sachin Kumar*  
-*Submitted to: Mr. Kamta Sharma*
