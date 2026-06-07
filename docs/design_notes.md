@@ -65,8 +65,5 @@ The best VSWR (closest to 1.0) occurs in the deep passband (500 MHz), consistent
 
 ## Possible Improvements
 
-1. **Use PCB etching** instead of copper tape for clean trace edges — reduces fringing field irregularities and improves repeatability.
-2. **Add junction discontinuity compensation** (chamfering or tapering at impedance steps) to suppress spurious reflections.
-3. **Higher-order filter** (N = 5) for sharper rolloff, or switch to Chebyshev approximation for equiripple response.
-4. **Replace FR4 with Rogers 4003C** (ε_r = 3.55, tan δ = 0.0027) for lower loss and better high-frequency performance.
-5. **Full 2-port calibration** (SOLT) on the NanoVNA for more accurate S-parameter measurement, particularly for S21.
+1. **Higher-order filter** (N = 5) for sharper rolloff, or switch to Chebyshev approximation for equiripple response.
+2. **Full 2-port calibration** (SOLT) on the NanoVNA for more accurate S-parameter measurement, particularly for S21.
